@@ -91,7 +91,7 @@ void setup()
 #ifdef USE_I2S_MIC_INPUT
   i2s_sampler->start(I2S_NUM_0, i2sMemsConfigBothChannels, applicationTaskHandle);
 #else
-  i2sSampler->start(I2S_NUM_0, adcI2SConfig, applicationTaskHandle);
+  i2s_sampler->start(I2S_NUM_0, adcI2SConfig, applicationTaskHandle);
 #endif
 }
 
