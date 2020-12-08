@@ -1,5 +1,5 @@
 // are you using an I2S microphone - comment this out if you want to use an analog mic and ADC input
-#define USE_I2S_MIC_INPUT
+// #define USE_I2S_MIC_INPUT
 
 // I2S Microphone Settings
 // Which channel is the I2S microphone on? I2S_CHANNEL_FMT_ONLY_LEFT or I2S_CHANNEL_FMT_ONLY_RIGHT

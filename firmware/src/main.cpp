@@ -75,7 +75,7 @@ void setup()
   I2SSampler *i2s_sampler = new I2SMicSampler(i2s_mic_pins, false);
 #else
   // Use the internal ADC
-  I2SSampler *i2sSampler = new ADCSampler(ADC_UNIT_1, ADC_MIC_CHANNEL);
+  I2SSampler *i2s_sampler = new ADCSampler(ADC_UNIT_1, ADC_MIC_CHANNEL);
 #endif
   // the command processor
   CommandProcessor *command_processor = new CommandProcessor();
