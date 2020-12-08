@@ -2,6 +2,8 @@
 
 Build your own voice-controlled robot - all you will need is an ESP32 and Microphone board (and some motors etc...).
 
+You can watch a video of the robot in action [here (YouTube)](https://www.youtube.com/watch?v=cp2qRrhaZRA):
+
 [![Demo Video](https://img.youtube.com/vi/cp2qRrhaZRA/0.jpg)](https://www.youtube.com/watch?v=cp2qRrhaZRA)
 
 I'm using a microphone breakout board that I've built myself based around the ICS-43434 - but any microphone board will work. The code has been written so that you can either use an I2S microphone or an analogue microphone using the built-in ADC.
