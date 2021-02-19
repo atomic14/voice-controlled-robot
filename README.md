@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # Voice-Controlled Robot With the ESP32
 
 Build your own voice-controlled robot - all you will need is an ESP32 and Microphone board (and some motors etc...).
