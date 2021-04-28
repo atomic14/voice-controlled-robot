@@ -5,7 +5,7 @@ This folder contains the Jupyter notebooks for creating the training data, train
 ## Setup
 
 You will need python3 installed - follow the instructions for your platform to get this set up and then create a virtual environment.
-
+You may have to install the `portaudio` library manually by using the following command `sudo apt-get install portaudio19-dev`. 
 ```
 python3 -m venv venv
 . ./venv/bin/activate
