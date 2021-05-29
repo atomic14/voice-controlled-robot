@@ -37,7 +37,7 @@ For my training, I add a lot more data to the `_background_noise_` folder. I als
 
 The notebook will run through all these samples and output files for the training step. You will need about 15GB of free space to save these files.
 
-## Tain Model.ipynb
+## Train Model.ipynb
 
 This will train a model against the training data. This will train on a CPU in 2-3 hours. If you have a suitable GPU this training will be considerably faster.
 
