@@ -35,6 +35,12 @@ tar -xzf data_speech_commands_v0.02.tar.gz -C speech_data
 
 For my training, I add a lot more data to the `_background_noise_` folder. I also created a `_problem_noise_` folder and recorded sounds that seemed to confuse the model - low frequency humming noises around 100Hz seem to cause problems.
 
+You can get this data from here:
+
+[\_background\_noise.zip](https://data.atomic14.com/_background_noise_.zip)
+
+[\_problem_noise\_.zip](https://data.atomic14.com/_problem_noise_.zip)
+
 The notebook will run through all these samples and output files for the training step. You will need about 15GB of free space to save these files.
 
 ## Train Model.ipynb
