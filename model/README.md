@@ -37,9 +37,8 @@ For my training, I add a lot more data to the `_background_noise_` folder. I als
 
 You can get this data from here:
 
-[\_background\_noise.zip](https://data.atomic14.com/_background_noise_.zip)
-
-[\_problem_noise\_.zip](https://data.atomic14.com/_problem_noise_.zip)
+* [\_background\_noise.zip](https://data.atomic14.com/_background_noise_.zip)
+* [\_problem_noise\_.zip](https://data.atomic14.com/_problem_noise_.zip)
 
 The notebook will run through all these samples and output files for the training step. You will need about 15GB of free space to save these files.
 
