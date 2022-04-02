@@ -27,10 +27,6 @@ A pre-trained model has already been generated and added to the firmware folder.
 
 If you want to train your own, I added a couple of extra folders to the training data they are available here:
 
-https://data.atomic14.com/_mar_sounds_.zip
-https://data.atomic14.com/_background_noise_.zip
-https://data.atomic14.com/_problem_noise_.zip
-
 ## Firmware
 
 ESP32 firmware built using Platform.io. This runs the neural network trying to detect the words `Left`, `Right`, `Forward` and `Backward`.
